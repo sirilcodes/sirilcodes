@@ -1,10 +1,12 @@
 # 💫 About Me:
-🔭 To truly understand what's happening inside a machine.
+🔭 Would love to understand machines, algorithms and
 
-🧑🏽‍💻 Working on bufferoverflows, hardware attacks, and 
-learn memory optimization.
+🧑🏽‍💻 Currently working on an extension to visualize codeflows.
+- Experienced with Bluetooth on ESP32.
+- Experinced on bufferoverflows, hardware attacks, and 
+memory optimization.
 
-🤝 Open to contribute to projects related to C/C++
+🤝 Open to contribute to projects related to C/C++ & Python.
 
 
 ## 🌐 Socials:
