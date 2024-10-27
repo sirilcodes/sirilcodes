@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Would love to understand machines, algorithms and
+🔭 Would love to understand machines, algorithms and nature.
 
 🧑🏽‍💻 Currently working on an extension to visualize codeflows.
 - Experienced with Bluetooth on ESP32.
